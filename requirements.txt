@@ -1,0 +1,12 @@
+tensorflow
+fastapi
+uvicorn
+yfinance
+pandas
+numpy
+scikit-learn
+streamlit
+requests
+joblib
+nest-asyncio
+jinja2
